@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "101289074850",
+    "firebase_url": "https://gradproject-861f8.firebaseio.com",
+    "project_id": "gradproject-861f8",
+    "storage_bucket": "gradproject-861f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101289074850:android:279bf967c4cddfff",
+        "android_client_info": {
+          "package_name": "com.UOWD.AugmentedRealityLearningCompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101289074850-lenvu5e2k60i5t92uttuulufrtakscn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzWnF4BuGfpgFhZ5qR8fRlHmVQKOEW3QY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

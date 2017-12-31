@@ -1,0 +1,2126 @@
+fileFormatVersion: 2
+guid: 2dbbda91cd4263b49ba17d55ae61a1d2
+timeCreated: 1494241574
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back_IK
+    100002: backBend_Control
+    100004: Blink_Left
+    100006: Blink_Left1
+    100008: Blink_Left2
+    100010: Blink_Left3
+    100012: Blink_Left4
+    100014: Blink_Left5
+    100016: Blink_Right
+    100018: Blink_Right1
+    100020: Blink_Right2
+    100022: Blink_Right3
+    100024: Blink_Right4
+    100026: Blink_Right5
+    100028: Body
+    100030: bodyControl
+    100032: Bottoms
+    100034: BrowsDown_Left
+    100036: BrowsDown_Left1
+    100038: BrowsDown_Left2
+    100040: BrowsDown_Left3
+    100042: BrowsDown_Left4
+    100044: BrowsDown_Left5
+    100046: BrowsDown_Right
+    100048: BrowsDown_Right1
+    100050: BrowsDown_Right2
+    100052: BrowsDown_Right3
+    100054: BrowsDown_Right4
+    100056: BrowsDown_Right5
+    100058: BrowsIn_Left
+    100060: BrowsIn_Left1
+    100062: BrowsIn_Left2
+    100064: BrowsIn_Left3
+    100066: BrowsOuterLower_Left
+    100068: BrowsOuterLower_Left1
+    100070: BrowsOuterLower_Left2
+    100072: BrowsOuterLower_Left3
+    100074: BrowsOuterLower_Right
+    100076: BrowsOuterLower_Right1
+    100078: BrowsOuterLower_Right2
+    100080: BrowsOuterLower_Right3
+    100082: BrowsUp_Left
+    100084: BrowsUp_Left1
+    100086: BrowsUp_Left2
+    100088: BrowsUp_Left3
+    100090: BrowsUp_Right
+    100092: BrowsUp_Right1
+    100094: BrowsUp_Right2
+    100096: BrowsUp_Right3
+    100098: BrowsUp_Right4
+    100100: BrowsUp_Right5
+    100102: CheekPuff_Left
+    100104: CheekPuff_Left1
+    100106: CheekPuff_Left2
+    100108: CheekPuff_Left3
+    100110: CheekPuff_Right
+    100112: CheekPuff_Right1
+    100114: CheekPuff_Right2
+    100116: CheekPuff_Right3
+    100118: //RootNode
+    100120: Eyelashes
+    100122: Eyes
+    100124: EyesWide_Left
+    100126: EyesWide_Left1
+    100128: EyesWide_Left2
+    100130: EyesWide_Left3
+    100132: EyesWide_Left4
+    100134: EyesWide_Left5
+    100136: EyesWide_Right
+    100138: EyesWide_Right1
+    100140: EyesWide_Right2
+    100142: EyesWide_Right3
+    100144: EyesWide_Right4
+    100146: EyesWide_Right5
+    100148: Frown_Left
+    100150: Frown_Left1
+    100152: Frown_Left2
+    100154: Frown_Left3
+    100156: Frown_Right
+    100158: Frown_Right1
+    100160: Frown_Right2
+    100162: Frown_Right3
+    100164: Hair
+    100166: ikBackCurve
+    100168: Jaw_Down
+    100170: Jaw_Down1
+    100172: Jaw_Down2
+    100174: Jaw_Down3
+    100176: Jaw_Left
+    100178: Jaw_Left1
+    100180: Jaw_Left2
+    100182: Jaw_Left3
+    100184: Jaw_Right
+    100186: Jaw_Right1
+    100188: Jaw_Right2
+    100190: Jaw_Right3
+    100192: Jaw_Up
+    100194: Jaw_Up1
+    100196: Jaw_Up2
+    100198: Jaw_Up3
+    100200: JawBackward
+    100202: JawBackward1
+    100204: JawBackward2
+    100206: JawBackward3
+    100208: JawForeward
+    100210: JawForeward1
+    100212: JawForeward2
+    100214: JawForeward3
+    100216: JawRotateY_Left
+    100218: JawRotateY_Left1
+    100220: JawRotateY_Left2
+    100222: JawRotateY_Left3
+    100224: JawRotateY_Right
+    100226: JawRotateY_Right1
+    100228: JawRotateY_Right2
+    100230: JawRotateY_Right3
+    100232: JawRotateZ_Right
+    100234: JawRotateZ_Right1
+    100236: JawRotateZ_Right2
+    100238: JawRotateZ_Right3
+    100240: l_ankle_ik
+    100242: l_ankle_Pivot
+    100244: l_arm_ik
+    100246: l_ball_ik
+    100248: l_elbow_control
+    100250: l_foot_control
+    100252: l_hand_control
+    100254: l_hand_offset
+    100256: l_heelPeel_pivot
+    100258: l_Knee_Control
+    100260: l_Swivel_Pivot
+    100262: l_toe_ik
+    100264: l_toetap_pivot
+    100266: l_ToeTip_Pivot
+    100268: left_Clavical_Control
+    100270: lowerBackCluster
+    100272: lowerBackControl
+    100274: LowerLipDown_Left
+    100276: LowerLipDown_Left1
+    100278: LowerLipDown_Left2
+    100280: LowerLipDown_Left3
+    100282: LowerLipDown_Right
+    100284: LowerLipDown_Right1
+    100286: LowerLipDown_Right2
+    100288: LowerLipDown_Right3
+    100290: LowerLipIn
+    100292: LowerLipIn1
+    100294: LowerLipIn2
+    100296: LowerLipIn3
+    100298: LowerLipOut
+    100300: LowerLipOut1
+    100302: LowerLipOut2
+    100304: LowerLipOut3
+    100306: Midmouth_Left
+    100308: Midmouth_Left1
+    100310: Midmouth_Left2
+    100312: Midmouth_Left3
+    100314: Midmouth_Left4
+    100316: Midmouth_Left5
+    100318: Midmouth_Right
+    100320: Midmouth_Right1
+    100322: Midmouth_Right2
+    100324: Midmouth_Right3
+    100326: Midmouth_Right4
+    100328: Midmouth_Right5
+    100330: mixamorig:Head
+    100332: mixamorig:HeadTop_End
+    100334: mixamorig:Hips
+    100336: mixamorig:LeftArm
+    100338: mixamorig:LeftEye
+    100340: mixamorig:LeftFoot
+    100342: mixamorig:LeftForeArm
+    100344: mixamorig:LeftHand
+    100346: mixamorig:LeftHandIndex1
+    100348: mixamorig:LeftHandIndex2
+    100350: mixamorig:LeftHandIndex3
+    100352: mixamorig:LeftHandIndex4
+    100354: mixamorig:LeftHandMiddle1
+    100356: mixamorig:LeftHandMiddle2
+    100358: mixamorig:LeftHandMiddle3
+    100360: mixamorig:LeftHandMiddle4
+    100362: mixamorig:LeftHandPinky1
+    100364: mixamorig:LeftHandPinky2
+    100366: mixamorig:LeftHandPinky3
+    100368: mixamorig:LeftHandPinky4
+    100370: mixamorig:LeftHandRing1
+    100372: mixamorig:LeftHandRing2
+    100374: mixamorig:LeftHandRing3
+    100376: mixamorig:LeftHandRing4
+    100378: mixamorig:LeftHandThumb1
+    100380: mixamorig:LeftHandThumb2
+    100382: mixamorig:LeftHandThumb3
+    100384: mixamorig:LeftHandThumb4
+    100386: mixamorig:LeftLeg
+    100388: mixamorig:LeftShoulder
+    100390: mixamorig:LeftToe_End
+    100392: mixamorig:LeftToeBase
+    100394: mixamorig:LeftUpLeg
+    100396: mixamorig:Neck
+    100398: mixamorig:RightArm
+    100400: mixamorig:RightEye
+    100402: mixamorig:RightFoot
+    100404: mixamorig:RightForeArm
+    100406: mixamorig:RightHand
+    100408: mixamorig:RightHandIndex1
+    100410: mixamorig:RightHandIndex2
+    100412: mixamorig:RightHandIndex3
+    100414: mixamorig:RightHandIndex4
+    100416: mixamorig:RightHandMiddle1
+    100418: mixamorig:RightHandMiddle2
+    100420: mixamorig:RightHandMiddle3
+    100422: mixamorig:RightHandMiddle4
+    100424: mixamorig:RightHandPinky1
+    100426: mixamorig:RightHandPinky2
+    100428: mixamorig:RightHandPinky3
+    100430: mixamorig:RightHandPinky4
+    100432: mixamorig:RightHandRing1
+    100434: mixamorig:RightHandRing2
+    100436: mixamorig:RightHandRing3
+    100438: mixamorig:RightHandRing4
+    100440: mixamorig:RightHandThumb1
+    100442: mixamorig:RightHandThumb2
+    100444: mixamorig:RightHandThumb3
+    100446: mixamorig:RightHandThumb4
+    100448: mixamorig:RightLeg
+    100450: mixamorig:RightShoulder
+    100452: mixamorig:RightToe_End
+    100454: mixamorig:RightToeBase
+    100456: mixamorig:RightUpLeg
+    100458: mixamorig:Spine
+    100460: mixamorig:Spine1
+    100462: mixamorig:Spine2
+    100464: MouthDown
+    100466: MouthDown1
+    100468: MouthDown2
+    100470: MouthDown3
+    100472: MouthDown4
+    100474: MouthDown5
+    100476: MouthNarrow_Left
+    100478: MouthNarrow_Left1
+    100480: MouthNarrow_Left2
+    100482: MouthNarrow_Left3
+    100484: MouthNarrow_Right
+    100486: MouthNarrow_Right1
+    100488: MouthNarrow_Right2
+    100490: MouthNarrow_Right3
+    100492: MouthOpen
+    100494: MouthOpen1
+    100496: MouthOpen2
+    100498: MouthOpen3
+    100500: MouthUp
+    100502: MouthUp1
+    100504: MouthUp2
+    100506: MouthUp3
+    100508: MouthUp4
+    100510: MouthUp5
+    100512: MouthWhistle_NarrowAdjust_Left
+    100514: MouthWhistle_NarrowAdjust_Left1
+    100516: MouthWhistle_NarrowAdjust_Left2
+    100518: MouthWhistle_NarrowAdjust_Left3
+    100520: MouthWhistle_NarrowAdjust_Right
+    100522: MouthWhistle_NarrowAdjust_Right1
+    100524: MouthWhistle_NarrowAdjust_Right2
+    100526: MouthWhistle_NarrowAdjust_Right3
+    100528: NoseScrunch_Left
+    100530: NoseScrunch_Left1
+    100532: NoseScrunch_Left2
+    100534: NoseScrunch_Left3
+    100536: NoseScrunch_Right
+    100538: NoseScrunch_Right1
+    100540: NoseScrunch_Right2
+    100542: NoseScrunch_Right3
+    100544: r_ankle_ik
+    100546: r_ankle_Pivot
+    100548: r_arm_ik
+    100550: r_ball_ik
+    100552: r_cavical_control
+    100554: r_elbow_control
+    100556: r_foot_control
+    100558: r_hand_control
+    100560: r_heelPeel_Pivot
+    100562: r_knee_control
+    100564: r_Swivel_Pivot
+    100566: r_toe_ik
+    100568: r_toetap_pivot
+    100570: r_toeTip_Pivot
+    100572: rig_Group
+    100574: Shoes
+    100576: Smile_Left
+    100578: Smile_Left1
+    100580: Smile_Left2
+    100582: Smile_Left3
+    100584: Smile_Right
+    100586: Smile_Right1
+    100588: Smile_Right2
+    100590: Smile_Right3
+    100592: Squint_Left
+    100594: Squint_Left1
+    100596: Squint_Left2
+    100598: Squint_Left3
+    100600: Squint_Left4
+    100602: Squint_Left5
+    100604: Squint_Right
+    100606: Squint_Right1
+    100608: Squint_Right2
+    100610: Squint_Right3
+    100612: Squint_Right4
+    100614: Squint_Right5
+    100616: superMover_Control
+    100618: TongueUp
+    100620: TongueUp1
+    100622: TongueUp2
+    100624: TongueUp3
+    100626: Tops
+    100628: upperBackCluster
+    100630: upperBackControl
+    100632: UpperLipIn
+    100634: UpperLipIn1
+    100636: UpperLipIn2
+    100638: UpperLipIn3
+    100640: UpperLipOut
+    100642: UpperLipOut1
+    100644: UpperLipOut2
+    100646: UpperLipOut3
+    100648: UpperLipUp_Left
+    100650: UpperLipUp_Left1
+    100652: UpperLipUp_Left2
+    100654: UpperLipUp_Left3
+    100656: UpperLipUp_Right
+    100658: UpperLipUp_Right1
+    100660: UpperLipUp_Right2
+    100662: UpperLipUp_Right3
+    100664: Whiteboard2:Frente
+    100666: Whiteboard2:Fundo
+    100668: Whiteboard2:Guarda_pinceis
+    100670: Whiteboard2:Quadro_Branco
+    400000: back_IK
+    400002: backBend_Control
+    400004: Blink_Left
+    400006: Blink_Left1
+    400008: Blink_Left2
+    400010: Blink_Left3
+    400012: Blink_Left4
+    400014: Blink_Left5
+    400016: Blink_Right
+    400018: Blink_Right1
+    400020: Blink_Right2
+    400022: Blink_Right3
+    400024: Blink_Right4
+    400026: Blink_Right5
+    400028: Body
+    400030: bodyControl
+    400032: Bottoms
+    400034: BrowsDown_Left
+    400036: BrowsDown_Left1
+    400038: BrowsDown_Left2
+    400040: BrowsDown_Left3
+    400042: BrowsDown_Left4
+    400044: BrowsDown_Left5
+    400046: BrowsDown_Right
+    400048: BrowsDown_Right1
+    400050: BrowsDown_Right2
+    400052: BrowsDown_Right3
+    400054: BrowsDown_Right4
+    400056: BrowsDown_Right5
+    400058: BrowsIn_Left
+    400060: BrowsIn_Left1
+    400062: BrowsIn_Left2
+    400064: BrowsIn_Left3
+    400066: BrowsOuterLower_Left
+    400068: BrowsOuterLower_Left1
+    400070: BrowsOuterLower_Left2
+    400072: BrowsOuterLower_Left3
+    400074: BrowsOuterLower_Right
+    400076: BrowsOuterLower_Right1
+    400078: BrowsOuterLower_Right2
+    400080: BrowsOuterLower_Right3
+    400082: BrowsUp_Left
+    400084: BrowsUp_Left1
+    400086: BrowsUp_Left2
+    400088: BrowsUp_Left3
+    400090: BrowsUp_Right
+    400092: BrowsUp_Right1
+    400094: BrowsUp_Right2
+    400096: BrowsUp_Right3
+    400098: BrowsUp_Right4
+    400100: BrowsUp_Right5
+    400102: CheekPuff_Left
+    400104: CheekPuff_Left1
+    400106: CheekPuff_Left2
+    400108: CheekPuff_Left3
+    400110: CheekPuff_Right
+    400112: CheekPuff_Right1
+    400114: CheekPuff_Right2
+    400116: CheekPuff_Right3
+    400118: //RootNode
+    400120: Eyelashes
+    400122: Eyes
+    400124: EyesWide_Left
+    400126: EyesWide_Left1
+    400128: EyesWide_Left2
+    400130: EyesWide_Left3
+    400132: EyesWide_Left4
+    400134: EyesWide_Left5
+    400136: EyesWide_Right
+    400138: EyesWide_Right1
+    400140: EyesWide_Right2
+    400142: EyesWide_Right3
+    400144: EyesWide_Right4
+    400146: EyesWide_Right5
+    400148: Frown_Left
+    400150: Frown_Left1
+    400152: Frown_Left2
+    400154: Frown_Left3
+    400156: Frown_Right
+    400158: Frown_Right1
+    400160: Frown_Right2
+    400162: Frown_Right3
+    400164: Hair
+    400166: ikBackCurve
+    400168: Jaw_Down
+    400170: Jaw_Down1
+    400172: Jaw_Down2
+    400174: Jaw_Down3
+    400176: Jaw_Left
+    400178: Jaw_Left1
+    400180: Jaw_Left2
+    400182: Jaw_Left3
+    400184: Jaw_Right
+    400186: Jaw_Right1
+    400188: Jaw_Right2
+    400190: Jaw_Right3
+    400192: Jaw_Up
+    400194: Jaw_Up1
+    400196: Jaw_Up2
+    400198: Jaw_Up3
+    400200: JawBackward
+    400202: JawBackward1
+    400204: JawBackward2
+    400206: JawBackward3
+    400208: JawForeward
+    400210: JawForeward1
+    400212: JawForeward2
+    400214: JawForeward3
+    400216: JawRotateY_Left
+    400218: JawRotateY_Left1
+    400220: JawRotateY_Left2
+    400222: JawRotateY_Left3
+    400224: JawRotateY_Right
+    400226: JawRotateY_Right1
+    400228: JawRotateY_Right2
+    400230: JawRotateY_Right3
+    400232: JawRotateZ_Right
+    400234: JawRotateZ_Right1
+    400236: JawRotateZ_Right2
+    400238: JawRotateZ_Right3
+    400240: l_ankle_ik
+    400242: l_ankle_Pivot
+    400244: l_arm_ik
+    400246: l_ball_ik
+    400248: l_elbow_control
+    400250: l_foot_control
+    400252: l_hand_control
+    400254: l_hand_offset
+    400256: l_heelPeel_pivot
+    400258: l_Knee_Control
+    400260: l_Swivel_Pivot
+    400262: l_toe_ik
+    400264: l_toetap_pivot
+    400266: l_ToeTip_Pivot
+    400268: left_Clavical_Control
+    400270: lowerBackCluster
+    400272: lowerBackControl
+    400274: LowerLipDown_Left
+    400276: LowerLipDown_Left1
+    400278: LowerLipDown_Left2
+    400280: LowerLipDown_Left3
+    400282: LowerLipDown_Right
+    400284: LowerLipDown_Right1
+    400286: LowerLipDown_Right2
+    400288: LowerLipDown_Right3
+    400290: LowerLipIn
+    400292: LowerLipIn1
+    400294: LowerLipIn2
+    400296: LowerLipIn3
+    400298: LowerLipOut
+    400300: LowerLipOut1
+    400302: LowerLipOut2
+    400304: LowerLipOut3
+    400306: Midmouth_Left
+    400308: Midmouth_Left1
+    400310: Midmouth_Left2
+    400312: Midmouth_Left3
+    400314: Midmouth_Left4
+    400316: Midmouth_Left5
+    400318: Midmouth_Right
+    400320: Midmouth_Right1
+    400322: Midmouth_Right2
+    400324: Midmouth_Right3
+    400326: Midmouth_Right4
+    400328: Midmouth_Right5
+    400330: mixamorig:Head
+    400332: mixamorig:HeadTop_End
+    400334: mixamorig:Hips
+    400336: mixamorig:LeftArm
+    400338: mixamorig:LeftEye
+    400340: mixamorig:LeftFoot
+    400342: mixamorig:LeftForeArm
+    400344: mixamorig:LeftHand
+    400346: mixamorig:LeftHandIndex1
+    400348: mixamorig:LeftHandIndex2
+    400350: mixamorig:LeftHandIndex3
+    400352: mixamorig:LeftHandIndex4
+    400354: mixamorig:LeftHandMiddle1
+    400356: mixamorig:LeftHandMiddle2
+    400358: mixamorig:LeftHandMiddle3
+    400360: mixamorig:LeftHandMiddle4
+    400362: mixamorig:LeftHandPinky1
+    400364: mixamorig:LeftHandPinky2
+    400366: mixamorig:LeftHandPinky3
+    400368: mixamorig:LeftHandPinky4
+    400370: mixamorig:LeftHandRing1
+    400372: mixamorig:LeftHandRing2
+    400374: mixamorig:LeftHandRing3
+    400376: mixamorig:LeftHandRing4
+    400378: mixamorig:LeftHandThumb1
+    400380: mixamorig:LeftHandThumb2
+    400382: mixamorig:LeftHandThumb3
+    400384: mixamorig:LeftHandThumb4
+    400386: mixamorig:LeftLeg
+    400388: mixamorig:LeftShoulder
+    400390: mixamorig:LeftToe_End
+    400392: mixamorig:LeftToeBase
+    400394: mixamorig:LeftUpLeg
+    400396: mixamorig:Neck
+    400398: mixamorig:RightArm
+    400400: mixamorig:RightEye
+    400402: mixamorig:RightFoot
+    400404: mixamorig:RightForeArm
+    400406: mixamorig:RightHand
+    400408: mixamorig:RightHandIndex1
+    400410: mixamorig:RightHandIndex2
+    400412: mixamorig:RightHandIndex3
+    400414: mixamorig:RightHandIndex4
+    400416: mixamorig:RightHandMiddle1
+    400418: mixamorig:RightHandMiddle2
+    400420: mixamorig:RightHandMiddle3
+    400422: mixamorig:RightHandMiddle4
+    400424: mixamorig:RightHandPinky1
+    400426: mixamorig:RightHandPinky2
+    400428: mixamorig:RightHandPinky3
+    400430: mixamorig:RightHandPinky4
+    400432: mixamorig:RightHandRing1
+    400434: mixamorig:RightHandRing2
+    400436: mixamorig:RightHandRing3
+    400438: mixamorig:RightHandRing4
+    400440: mixamorig:RightHandThumb1
+    400442: mixamorig:RightHandThumb2
+    400444: mixamorig:RightHandThumb3
+    400446: mixamorig:RightHandThumb4
+    400448: mixamorig:RightLeg
+    400450: mixamorig:RightShoulder
+    400452: mixamorig:RightToe_End
+    400454: mixamorig:RightToeBase
+    400456: mixamorig:RightUpLeg
+    400458: mixamorig:Spine
+    400460: mixamorig:Spine1
+    400462: mixamorig:Spine2
+    400464: MouthDown
+    400466: MouthDown1
+    400468: MouthDown2
+    400470: MouthDown3
+    400472: MouthDown4
+    400474: MouthDown5
+    400476: MouthNarrow_Left
+    400478: MouthNarrow_Left1
+    400480: MouthNarrow_Left2
+    400482: MouthNarrow_Left3
+    400484: MouthNarrow_Right
+    400486: MouthNarrow_Right1
+    400488: MouthNarrow_Right2
+    400490: MouthNarrow_Right3
+    400492: MouthOpen
+    400494: MouthOpen1
+    400496: MouthOpen2
+    400498: MouthOpen3
+    400500: MouthUp
+    400502: MouthUp1
+    400504: MouthUp2
+    400506: MouthUp3
+    400508: MouthUp4
+    400510: MouthUp5
+    400512: MouthWhistle_NarrowAdjust_Left
+    400514: MouthWhistle_NarrowAdjust_Left1
+    400516: MouthWhistle_NarrowAdjust_Left2
+    400518: MouthWhistle_NarrowAdjust_Left3
+    400520: MouthWhistle_NarrowAdjust_Right
+    400522: MouthWhistle_NarrowAdjust_Right1
+    400524: MouthWhistle_NarrowAdjust_Right2
+    400526: MouthWhistle_NarrowAdjust_Right3
+    400528: NoseScrunch_Left
+    400530: NoseScrunch_Left1
+    400532: NoseScrunch_Left2
+    400534: NoseScrunch_Left3
+    400536: NoseScrunch_Right
+    400538: NoseScrunch_Right1
+    400540: NoseScrunch_Right2
+    400542: NoseScrunch_Right3
+    400544: r_ankle_ik
+    400546: r_ankle_Pivot
+    400548: r_arm_ik
+    400550: r_ball_ik
+    400552: r_cavical_control
+    400554: r_elbow_control
+    400556: r_foot_control
+    400558: r_hand_control
+    400560: r_heelPeel_Pivot
+    400562: r_knee_control
+    400564: r_Swivel_Pivot
+    400566: r_toe_ik
+    400568: r_toetap_pivot
+    400570: r_toeTip_Pivot
+    400572: rig_Group
+    400574: Shoes
+    400576: Smile_Left
+    400578: Smile_Left1
+    400580: Smile_Left2
+    400582: Smile_Left3
+    400584: Smile_Right
+    400586: Smile_Right1
+    400588: Smile_Right2
+    400590: Smile_Right3
+    400592: Squint_Left
+    400594: Squint_Left1
+    400596: Squint_Left2
+    400598: Squint_Left3
+    400600: Squint_Left4
+    400602: Squint_Left5
+    400604: Squint_Right
+    400606: Squint_Right1
+    400608: Squint_Right2
+    400610: Squint_Right3
+    400612: Squint_Right4
+    400614: Squint_Right5
+    400616: superMover_Control
+    400618: TongueUp
+    400620: TongueUp1
+    400622: TongueUp2
+    400624: TongueUp3
+    400626: Tops
+    400628: upperBackCluster
+    400630: upperBackControl
+    400632: UpperLipIn
+    400634: UpperLipIn1
+    400636: UpperLipIn2
+    400638: UpperLipIn3
+    400640: UpperLipOut
+    400642: UpperLipOut1
+    400644: UpperLipOut2
+    400646: UpperLipOut3
+    400648: UpperLipUp_Left
+    400650: UpperLipUp_Left1
+    400652: UpperLipUp_Left2
+    400654: UpperLipUp_Left3
+    400656: UpperLipUp_Right
+    400658: UpperLipUp_Right1
+    400660: UpperLipUp_Right2
+    400662: UpperLipUp_Right3
+    400664: Whiteboard2:Frente
+    400666: Whiteboard2:Fundo
+    400668: Whiteboard2:Guarda_pinceis
+    400670: Whiteboard2:Quadro_Branco
+    2300000: Blink_Left
+    2300002: Blink_Left1
+    2300004: Blink_Left2
+    2300006: Blink_Left3
+    2300008: Blink_Left4
+    2300010: Blink_Left5
+    2300012: Blink_Right
+    2300014: Blink_Right1
+    2300016: Blink_Right2
+    2300018: Blink_Right3
+    2300020: Blink_Right4
+    2300022: Blink_Right5
+    2300024: BrowsDown_Left
+    2300026: BrowsDown_Left1
+    2300028: BrowsDown_Left2
+    2300030: BrowsDown_Left3
+    2300032: BrowsDown_Left4
+    2300034: BrowsDown_Left5
+    2300036: BrowsDown_Right
+    2300038: BrowsDown_Right1
+    2300040: BrowsDown_Right2
+    2300042: BrowsDown_Right3
+    2300044: BrowsDown_Right4
+    2300046: BrowsDown_Right5
+    2300048: BrowsIn_Left
+    2300050: BrowsIn_Left1
+    2300052: BrowsIn_Left2
+    2300054: BrowsIn_Left3
+    2300056: BrowsOuterLower_Left
+    2300058: BrowsOuterLower_Left1
+    2300060: BrowsOuterLower_Left2
+    2300062: BrowsOuterLower_Left3
+    2300064: BrowsOuterLower_Right
+    2300066: BrowsOuterLower_Right1
+    2300068: BrowsOuterLower_Right2
+    2300070: BrowsOuterLower_Right3
+    2300072: BrowsUp_Left
+    2300074: BrowsUp_Left1
+    2300076: BrowsUp_Left2
+    2300078: BrowsUp_Left3
+    2300080: BrowsUp_Right
+    2300082: BrowsUp_Right1
+    2300084: BrowsUp_Right2
+    2300086: BrowsUp_Right3
+    2300088: BrowsUp_Right4
+    2300090: BrowsUp_Right5
+    2300092: CheekPuff_Left
+    2300094: CheekPuff_Left1
+    2300096: CheekPuff_Left2
+    2300098: CheekPuff_Left3
+    2300100: CheekPuff_Right
+    2300102: CheekPuff_Right1
+    2300104: CheekPuff_Right2
+    2300106: CheekPuff_Right3
+    2300108: EyesWide_Left
+    2300110: EyesWide_Left1
+    2300112: EyesWide_Left2
+    2300114: EyesWide_Left3
+    2300116: EyesWide_Left4
+    2300118: EyesWide_Left5
+    2300120: EyesWide_Right
+    2300122: EyesWide_Right1
+    2300124: EyesWide_Right2
+    2300126: EyesWide_Right3
+    2300128: EyesWide_Right4
+    2300130: EyesWide_Right5
+    2300132: Frown_Left
+    2300134: Frown_Left1
+    2300136: Frown_Left2
+    2300138: Frown_Left3
+    2300140: Frown_Right
+    2300142: Frown_Right1
+    2300144: Frown_Right2
+    2300146: Frown_Right3
+    2300148: Jaw_Down
+    2300150: Jaw_Down1
+    2300152: Jaw_Down2
+    2300154: Jaw_Down3
+    2300156: Jaw_Left
+    2300158: Jaw_Left1
+    2300160: Jaw_Left2
+    2300162: Jaw_Left3
+    2300164: Jaw_Right
+    2300166: Jaw_Right1
+    2300168: Jaw_Right2
+    2300170: Jaw_Right3
+    2300172: Jaw_Up
+    2300174: Jaw_Up1
+    2300176: Jaw_Up2
+    2300178: Jaw_Up3
+    2300180: JawBackward
+    2300182: JawBackward1
+    2300184: JawBackward2
+    2300186: JawBackward3
+    2300188: JawForeward
+    2300190: JawForeward1
+    2300192: JawForeward2
+    2300194: JawForeward3
+    2300196: JawRotateY_Left
+    2300198: JawRotateY_Left1
+    2300200: JawRotateY_Left2
+    2300202: JawRotateY_Left3
+    2300204: JawRotateY_Right
+    2300206: JawRotateY_Right1
+    2300208: JawRotateY_Right2
+    2300210: JawRotateY_Right3
+    2300212: JawRotateZ_Right
+    2300214: JawRotateZ_Right1
+    2300216: JawRotateZ_Right2
+    2300218: JawRotateZ_Right3
+    2300220: LowerLipDown_Left
+    2300222: LowerLipDown_Left1
+    2300224: LowerLipDown_Left2
+    2300226: LowerLipDown_Left3
+    2300228: LowerLipDown_Right
+    2300230: LowerLipDown_Right1
+    2300232: LowerLipDown_Right2
+    2300234: LowerLipDown_Right3
+    2300236: LowerLipIn
+    2300238: LowerLipIn1
+    2300240: LowerLipIn2
+    2300242: LowerLipIn3
+    2300244: LowerLipOut
+    2300246: LowerLipOut1
+    2300248: LowerLipOut2
+    2300250: LowerLipOut3
+    2300252: Midmouth_Left
+    2300254: Midmouth_Left1
+    2300256: Midmouth_Left2
+    2300258: Midmouth_Left3
+    2300260: Midmouth_Left4
+    2300262: Midmouth_Left5
+    2300264: Midmouth_Right
+    2300266: Midmouth_Right1
+    2300268: Midmouth_Right2
+    2300270: Midmouth_Right3
+    2300272: Midmouth_Right4
+    2300274: Midmouth_Right5
+    2300276: MouthDown
+    2300278: MouthDown1
+    2300280: MouthDown2
+    2300282: MouthDown3
+    2300284: MouthDown4
+    2300286: MouthDown5
+    2300288: MouthNarrow_Left
+    2300290: MouthNarrow_Left1
+    2300292: MouthNarrow_Left2
+    2300294: MouthNarrow_Left3
+    2300296: MouthNarrow_Right
+    2300298: MouthNarrow_Right1
+    2300300: MouthNarrow_Right2
+    2300302: MouthNarrow_Right3
+    2300304: MouthOpen
+    2300306: MouthOpen1
+    2300308: MouthOpen2
+    2300310: MouthOpen3
+    2300312: MouthUp
+    2300314: MouthUp1
+    2300316: MouthUp2
+    2300318: MouthUp3
+    2300320: MouthUp4
+    2300322: MouthUp5
+    2300324: MouthWhistle_NarrowAdjust_Left
+    2300326: MouthWhistle_NarrowAdjust_Left1
+    2300328: MouthWhistle_NarrowAdjust_Left2
+    2300330: MouthWhistle_NarrowAdjust_Left3
+    2300332: MouthWhistle_NarrowAdjust_Right
+    2300334: MouthWhistle_NarrowAdjust_Right1
+    2300336: MouthWhistle_NarrowAdjust_Right2
+    2300338: MouthWhistle_NarrowAdjust_Right3
+    2300340: NoseScrunch_Left
+    2300342: NoseScrunch_Left1
+    2300344: NoseScrunch_Left2
+    2300346: NoseScrunch_Left3
+    2300348: NoseScrunch_Right
+    2300350: NoseScrunch_Right1
+    2300352: NoseScrunch_Right2
+    2300354: NoseScrunch_Right3
+    2300356: Smile_Left
+    2300358: Smile_Left1
+    2300360: Smile_Left2
+    2300362: Smile_Left3
+    2300364: Smile_Right
+    2300366: Smile_Right1
+    2300368: Smile_Right2
+    2300370: Smile_Right3
+    2300372: Squint_Left
+    2300374: Squint_Left1
+    2300376: Squint_Left2
+    2300378: Squint_Left3
+    2300380: Squint_Left4
+    2300382: Squint_Left5
+    2300384: Squint_Right
+    2300386: Squint_Right1
+    2300388: Squint_Right2
+    2300390: Squint_Right3
+    2300392: Squint_Right4
+    2300394: Squint_Right5
+    2300396: TongueUp
+    2300398: TongueUp1
+    2300400: TongueUp2
+    2300402: TongueUp3
+    2300404: UpperLipIn
+    2300406: UpperLipIn1
+    2300408: UpperLipIn2
+    2300410: UpperLipIn3
+    2300412: UpperLipOut
+    2300414: UpperLipOut1
+    2300416: UpperLipOut2
+    2300418: UpperLipOut3
+    2300420: UpperLipUp_Left
+    2300422: UpperLipUp_Left1
+    2300424: UpperLipUp_Left2
+    2300426: UpperLipUp_Left3
+    2300428: UpperLipUp_Right
+    2300430: UpperLipUp_Right1
+    2300432: UpperLipUp_Right2
+    2300434: UpperLipUp_Right3
+    2300436: Whiteboard2:Frente
+    2300438: Whiteboard2:Fundo
+    2300440: Whiteboard2:Guarda_pinceis
+    3300000: Blink_Left
+    3300002: Blink_Left1
+    3300004: Blink_Left2
+    3300006: Blink_Left3
+    3300008: Blink_Left4
+    3300010: Blink_Left5
+    3300012: Blink_Right
+    3300014: Blink_Right1
+    3300016: Blink_Right2
+    3300018: Blink_Right3
+    3300020: Blink_Right4
+    3300022: Blink_Right5
+    3300024: BrowsDown_Left
+    3300026: BrowsDown_Left1
+    3300028: BrowsDown_Left2
+    3300030: BrowsDown_Left3
+    3300032: BrowsDown_Left4
+    3300034: BrowsDown_Left5
+    3300036: BrowsDown_Right
+    3300038: BrowsDown_Right1
+    3300040: BrowsDown_Right2
+    3300042: BrowsDown_Right3
+    3300044: BrowsDown_Right4
+    3300046: BrowsDown_Right5
+    3300048: BrowsIn_Left
+    3300050: BrowsIn_Left1
+    3300052: BrowsIn_Left2
+    3300054: BrowsIn_Left3
+    3300056: BrowsOuterLower_Left
+    3300058: BrowsOuterLower_Left1
+    3300060: BrowsOuterLower_Left2
+    3300062: BrowsOuterLower_Left3
+    3300064: BrowsOuterLower_Right
+    3300066: BrowsOuterLower_Right1
+    3300068: BrowsOuterLower_Right2
+    3300070: BrowsOuterLower_Right3
+    3300072: BrowsUp_Left
+    3300074: BrowsUp_Left1
+    3300076: BrowsUp_Left2
+    3300078: BrowsUp_Left3
+    3300080: BrowsUp_Right
+    3300082: BrowsUp_Right1
+    3300084: BrowsUp_Right2
+    3300086: BrowsUp_Right3
+    3300088: BrowsUp_Right4
+    3300090: BrowsUp_Right5
+    3300092: CheekPuff_Left
+    3300094: CheekPuff_Left1
+    3300096: CheekPuff_Left2
+    3300098: CheekPuff_Left3
+    3300100: CheekPuff_Right
+    3300102: CheekPuff_Right1
+    3300104: CheekPuff_Right2
+    3300106: CheekPuff_Right3
+    3300108: EyesWide_Left
+    3300110: EyesWide_Left1
+    3300112: EyesWide_Left2
+    3300114: EyesWide_Left3
+    3300116: EyesWide_Left4
+    3300118: EyesWide_Left5
+    3300120: EyesWide_Right
+    3300122: EyesWide_Right1
+    3300124: EyesWide_Right2
+    3300126: EyesWide_Right3
+    3300128: EyesWide_Right4
+    3300130: EyesWide_Right5
+    3300132: Frown_Left
+    3300134: Frown_Left1
+    3300136: Frown_Left2
+    3300138: Frown_Left3
+    3300140: Frown_Right
+    3300142: Frown_Right1
+    3300144: Frown_Right2
+    3300146: Frown_Right3
+    3300148: Jaw_Down
+    3300150: Jaw_Down1
+    3300152: Jaw_Down2
+    3300154: Jaw_Down3
+    3300156: Jaw_Left
+    3300158: Jaw_Left1
+    3300160: Jaw_Left2
+    3300162: Jaw_Left3
+    3300164: Jaw_Right
+    3300166: Jaw_Right1
+    3300168: Jaw_Right2
+    3300170: Jaw_Right3
+    3300172: Jaw_Up
+    3300174: Jaw_Up1
+    3300176: Jaw_Up2
+    3300178: Jaw_Up3
+    3300180: JawBackward
+    3300182: JawBackward1
+    3300184: JawBackward2
+    3300186: JawBackward3
+    3300188: JawForeward
+    3300190: JawForeward1
+    3300192: JawForeward2
+    3300194: JawForeward3
+    3300196: JawRotateY_Left
+    3300198: JawRotateY_Left1
+    3300200: JawRotateY_Left2
+    3300202: JawRotateY_Left3
+    3300204: JawRotateY_Right
+    3300206: JawRotateY_Right1
+    3300208: JawRotateY_Right2
+    3300210: JawRotateY_Right3
+    3300212: JawRotateZ_Right
+    3300214: JawRotateZ_Right1
+    3300216: JawRotateZ_Right2
+    3300218: JawRotateZ_Right3
+    3300220: LowerLipDown_Left
+    3300222: LowerLipDown_Left1
+    3300224: LowerLipDown_Left2
+    3300226: LowerLipDown_Left3
+    3300228: LowerLipDown_Right
+    3300230: LowerLipDown_Right1
+    3300232: LowerLipDown_Right2
+    3300234: LowerLipDown_Right3
+    3300236: LowerLipIn
+    3300238: LowerLipIn1
+    3300240: LowerLipIn2
+    3300242: LowerLipIn3
+    3300244: LowerLipOut
+    3300246: LowerLipOut1
+    3300248: LowerLipOut2
+    3300250: LowerLipOut3
+    3300252: Midmouth_Left
+    3300254: Midmouth_Left1
+    3300256: Midmouth_Left2
+    3300258: Midmouth_Left3
+    3300260: Midmouth_Left4
+    3300262: Midmouth_Left5
+    3300264: Midmouth_Right
+    3300266: Midmouth_Right1
+    3300268: Midmouth_Right2
+    3300270: Midmouth_Right3
+    3300272: Midmouth_Right4
+    3300274: Midmouth_Right5
+    3300276: MouthDown
+    3300278: MouthDown1
+    3300280: MouthDown2
+    3300282: MouthDown3
+    3300284: MouthDown4
+    3300286: MouthDown5
+    3300288: MouthNarrow_Left
+    3300290: MouthNarrow_Left1
+    3300292: MouthNarrow_Left2
+    3300294: MouthNarrow_Left3
+    3300296: MouthNarrow_Right
+    3300298: MouthNarrow_Right1
+    3300300: MouthNarrow_Right2
+    3300302: MouthNarrow_Right3
+    3300304: MouthOpen
+    3300306: MouthOpen1
+    3300308: MouthOpen2
+    3300310: MouthOpen3
+    3300312: MouthUp
+    3300314: MouthUp1
+    3300316: MouthUp2
+    3300318: MouthUp3
+    3300320: MouthUp4
+    3300322: MouthUp5
+    3300324: MouthWhistle_NarrowAdjust_Left
+    3300326: MouthWhistle_NarrowAdjust_Left1
+    3300328: MouthWhistle_NarrowAdjust_Left2
+    3300330: MouthWhistle_NarrowAdjust_Left3
+    3300332: MouthWhistle_NarrowAdjust_Right
+    3300334: MouthWhistle_NarrowAdjust_Right1
+    3300336: MouthWhistle_NarrowAdjust_Right2
+    3300338: MouthWhistle_NarrowAdjust_Right3
+    3300340: NoseScrunch_Left
+    3300342: NoseScrunch_Left1
+    3300344: NoseScrunch_Left2
+    3300346: NoseScrunch_Left3
+    3300348: NoseScrunch_Right
+    3300350: NoseScrunch_Right1
+    3300352: NoseScrunch_Right2
+    3300354: NoseScrunch_Right3
+    3300356: Smile_Left
+    3300358: Smile_Left1
+    3300360: Smile_Left2
+    3300362: Smile_Left3
+    3300364: Smile_Right
+    3300366: Smile_Right1
+    3300368: Smile_Right2
+    3300370: Smile_Right3
+    3300372: Squint_Left
+    3300374: Squint_Left1
+    3300376: Squint_Left2
+    3300378: Squint_Left3
+    3300380: Squint_Left4
+    3300382: Squint_Left5
+    3300384: Squint_Right
+    3300386: Squint_Right1
+    3300388: Squint_Right2
+    3300390: Squint_Right3
+    3300392: Squint_Right4
+    3300394: Squint_Right5
+    3300396: TongueUp
+    3300398: TongueUp1
+    3300400: TongueUp2
+    3300402: TongueUp3
+    3300404: UpperLipIn
+    3300406: UpperLipIn1
+    3300408: UpperLipIn2
+    3300410: UpperLipIn3
+    3300412: UpperLipOut
+    3300414: UpperLipOut1
+    3300416: UpperLipOut2
+    3300418: UpperLipOut3
+    3300420: UpperLipUp_Left
+    3300422: UpperLipUp_Left1
+    3300424: UpperLipUp_Left2
+    3300426: UpperLipUp_Left3
+    3300428: UpperLipUp_Right
+    3300430: UpperLipUp_Right1
+    3300432: UpperLipUp_Right2
+    3300434: UpperLipUp_Right3
+    3300436: Whiteboard2:Frente
+    3300438: Whiteboard2:Fundo
+    3300440: Whiteboard2:Guarda_pinceis
+    4300000: Blink_Left
+    4300002: Blink_Right
+    4300004: BrowsDown_Left
+    4300006: BrowsDown_Right
+    4300008: BrowsIn_Left
+    4300010: BrowsOuterLower_Left
+    4300012: BrowsOuterLower_Right
+    4300014: BrowsUp_Left
+    4300016: BrowsUp_Right
+    4300018: CheekPuff_Left
+    4300020: CheekPuff_Right
+    4300022: EyesWide_Left
+    4300024: EyesWide_Right
+    4300026: Frown_Left
+    4300028: Frown_Right
+    4300030: JawBackward
+    4300032: JawForeward
+    4300034: JawRotateY_Left
+    4300036: JawRotateY_Right
+    4300038: JawRotateZ_Right
+    4300040: Jaw_Down
+    4300042: Jaw_Left
+    4300044: Jaw_Right
+    4300046: Jaw_Up
+    4300048: LowerLipDown_Left
+    4300050: LowerLipDown_Right
+    4300052: LowerLipIn
+    4300054: LowerLipOut
+    4300056: Midmouth_Left
+    4300058: Midmouth_Right
+    4300060: MouthDown
+    4300062: MouthNarrow_Left
+    4300064: MouthNarrow_Right
+    4300066: MouthOpen
+    4300068: MouthUp
+    4300070: MouthWhistle_NarrowAdjust_Left
+    4300072: MouthWhistle_NarrowAdjust_Right
+    4300074: NoseScrunch_Left
+    4300076: NoseScrunch_Right
+    4300078: Smile_Left
+    4300080: Smile_Right
+    4300082: Squint_Left
+    4300084: Squint_Right
+    4300086: TongueUp
+    4300088: UpperLipIn
+    4300090: UpperLipOut
+    4300092: UpperLipUp_Left
+    4300094: UpperLipUp_Right
+    4300096: Blink_Left1
+    4300098: Blink_Right1
+    4300100: BrowsDown_Left1
+    4300102: BrowsDown_Right1
+    4300104: BrowsUp_Right1
+    4300106: EyesWide_Left1
+    4300108: EyesWide_Right1
+    4300110: Midmouth_Left1
+    4300112: Midmouth_Right1
+    4300114: MouthDown1
+    4300116: MouthUp1
+    4300118: Squint_Left1
+    4300120: Squint_Right1
+    4300122: Blink_Left2
+    4300124: Blink_Right2
+    4300126: BrowsDown_Left2
+    4300128: BrowsDown_Right2
+    4300130: BrowsIn_Left1
+    4300132: BrowsOuterLower_Left1
+    4300134: BrowsOuterLower_Right1
+    4300136: BrowsUp_Left1
+    4300138: BrowsUp_Right2
+    4300140: CheekPuff_Left1
+    4300142: CheekPuff_Right1
+    4300144: EyesWide_Left2
+    4300146: EyesWide_Right2
+    4300148: Frown_Left1
+    4300150: Frown_Right1
+    4300152: JawBackward1
+    4300154: JawForeward1
+    4300156: JawRotateY_Left1
+    4300158: JawRotateY_Right1
+    4300160: JawRotateZ_Right1
+    4300162: Jaw_Down1
+    4300164: Jaw_Left1
+    4300166: Jaw_Right1
+    4300168: Jaw_Up1
+    4300170: LowerLipDown_Left1
+    4300172: LowerLipDown_Right1
+    4300174: LowerLipIn1
+    4300176: LowerLipOut1
+    4300178: Midmouth_Left2
+    4300180: Midmouth_Right2
+    4300182: MouthDown2
+    4300184: MouthNarrow_Left1
+    4300186: MouthNarrow_Right1
+    4300188: MouthOpen1
+    4300190: MouthUp2
+    4300192: MouthWhistle_NarrowAdjust_Left1
+    4300194: MouthWhistle_NarrowAdjust_Right1
+    4300196: NoseScrunch_Left1
+    4300198: NoseScrunch_Right1
+    4300200: Smile_Left1
+    4300202: Smile_Right1
+    4300204: Squint_Left2
+    4300206: Squint_Right2
+    4300208: TongueUp1
+    4300210: UpperLipIn1
+    4300212: UpperLipOut1
+    4300214: UpperLipUp_Left1
+    4300216: UpperLipUp_Right1
+    4300218: Blink_Left3
+    4300220: Blink_Right3
+    4300222: BrowsDown_Left3
+    4300224: BrowsDown_Right3
+    4300226: BrowsIn_Left2
+    4300228: BrowsOuterLower_Left2
+    4300230: BrowsOuterLower_Right2
+    4300232: BrowsUp_Left2
+    4300234: BrowsUp_Right3
+    4300236: CheekPuff_Left2
+    4300238: CheekPuff_Right2
+    4300240: EyesWide_Left3
+    4300242: EyesWide_Right3
+    4300244: Frown_Left2
+    4300246: Frown_Right2
+    4300248: JawBackward2
+    4300250: JawForeward2
+    4300252: JawRotateY_Left2
+    4300254: JawRotateY_Right2
+    4300256: JawRotateZ_Right2
+    4300258: Jaw_Down2
+    4300260: Jaw_Left2
+    4300262: Jaw_Right2
+    4300264: Jaw_Up2
+    4300266: LowerLipDown_Left2
+    4300268: LowerLipDown_Right2
+    4300270: LowerLipIn2
+    4300272: LowerLipOut2
+    4300274: Midmouth_Left3
+    4300276: Midmouth_Right3
+    4300278: MouthDown3
+    4300280: MouthNarrow_Left2
+    4300282: MouthNarrow_Right2
+    4300284: MouthOpen2
+    4300286: MouthUp3
+    4300288: MouthWhistle_NarrowAdjust_Left2
+    4300290: MouthWhistle_NarrowAdjust_Right2
+    4300292: NoseScrunch_Left2
+    4300294: NoseScrunch_Right2
+    4300296: Smile_Left2
+    4300298: Smile_Right2
+    4300300: Squint_Left3
+    4300302: Squint_Right3
+    4300304: TongueUp2
+    4300306: UpperLipIn2
+    4300308: UpperLipOut2
+    4300310: UpperLipUp_Left2
+    4300312: UpperLipUp_Right2
+    4300314: Blink_Left4
+    4300316: Blink_Right4
+    4300318: BrowsDown_Left4
+    4300320: BrowsDown_Right4
+    4300322: BrowsUp_Right4
+    4300324: EyesWide_Left4
+    4300326: EyesWide_Right4
+    4300328: Midmouth_Left4
+    4300330: Midmouth_Right4
+    4300332: MouthDown4
+    4300334: MouthUp4
+    4300336: Squint_Left4
+    4300338: Squint_Right4
+    4300340: Blink_Left5
+    4300342: Blink_Right5
+    4300344: BrowsDown_Left5
+    4300346: BrowsDown_Right5
+    4300348: BrowsIn_Left3
+    4300350: BrowsOuterLower_Left3
+    4300352: BrowsOuterLower_Right3
+    4300354: BrowsUp_Left3
+    4300356: BrowsUp_Right5
+    4300358: CheekPuff_Left3
+    4300360: CheekPuff_Right3
+    4300362: EyesWide_Left5
+    4300364: EyesWide_Right5
+    4300366: Frown_Left3
+    4300368: Frown_Right3
+    4300370: JawBackward3
+    4300372: JawForeward3
+    4300374: JawRotateY_Left3
+    4300376: JawRotateY_Right3
+    4300378: JawRotateZ_Right3
+    4300380: Jaw_Down3
+    4300382: Jaw_Left3
+    4300384: Jaw_Right3
+    4300386: Jaw_Up3
+    4300388: LowerLipDown_Left3
+    4300390: LowerLipDown_Right3
+    4300392: LowerLipIn3
+    4300394: LowerLipOut3
+    4300396: Midmouth_Left5
+    4300398: Midmouth_Right5
+    4300400: MouthDown5
+    4300402: MouthNarrow_Left3
+    4300404: MouthNarrow_Right3
+    4300406: MouthOpen3
+    4300408: MouthUp5
+    4300410: MouthWhistle_NarrowAdjust_Left3
+    4300412: MouthWhistle_NarrowAdjust_Right3
+    4300414: NoseScrunch_Left3
+    4300416: NoseScrunch_Right3
+    4300418: Smile_Left3
+    4300420: Smile_Right3
+    4300422: Squint_Left5
+    4300424: Squint_Right5
+    4300426: TongueUp3
+    4300428: UpperLipIn3
+    4300430: UpperLipOut3
+    4300432: UpperLipUp_Left3
+    4300434: UpperLipUp_Right3
+    4300436: Eyes
+    4300438: Eyelashes
+    4300440: Body
+    4300442: Hair
+    4300444: Bottoms
+    4300446: Tops
+    4300448: Shoes
+    4300450: Whiteboard2:Fundo
+    4300452: Whiteboard2:Frente
+    4300454: Whiteboard2:Guarda_pinceis
+    7400000: DrawTriangle
+    9500000: //RootNode
+    13700000: Body
+    13700002: Bottoms
+    13700004: Eyelashes
+    13700006: Eyes
+    13700008: Hair
+    13700010: Shoes
+    13700012: Tops
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: DrawTriangle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Blink_Left
+        weight: 1
+      - path: Blink_Left1
+        weight: 1
+      - path: Blink_Left2
+        weight: 1
+      - path: Blink_Left3
+        weight: 1
+      - path: Blink_Left4
+        weight: 1
+      - path: Blink_Left5
+        weight: 1
+      - path: Blink_Right
+        weight: 1
+      - path: Blink_Right1
+        weight: 1
+      - path: Blink_Right2
+        weight: 1
+      - path: Blink_Right3
+        weight: 1
+      - path: Blink_Right4
+        weight: 1
+      - path: Blink_Right5
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Bottoms
+        weight: 1
+      - path: BrowsDown_Left
+        weight: 1
+      - path: BrowsDown_Left1
+        weight: 1
+      - path: BrowsDown_Left2
+        weight: 1
+      - path: BrowsDown_Left3
+        weight: 1
+      - path: BrowsDown_Left4
+        weight: 1
+      - path: BrowsDown_Left5
+        weight: 1
+      - path: BrowsDown_Right
+        weight: 1
+      - path: BrowsDown_Right1
+        weight: 1
+      - path: BrowsDown_Right2
+        weight: 1
+      - path: BrowsDown_Right3
+        weight: 1
+      - path: BrowsDown_Right4
+        weight: 1
+      - path: BrowsDown_Right5
+        weight: 1
+      - path: BrowsIn_Left
+        weight: 1
+      - path: BrowsIn_Left1
+        weight: 1
+      - path: BrowsIn_Left2
+        weight: 1
+      - path: BrowsIn_Left3
+        weight: 1
+      - path: BrowsOuterLower_Left
+        weight: 1
+      - path: BrowsOuterLower_Left1
+        weight: 1
+      - path: BrowsOuterLower_Left2
+        weight: 1
+      - path: BrowsOuterLower_Left3
+        weight: 1
+      - path: BrowsOuterLower_Right
+        weight: 1
+      - path: BrowsOuterLower_Right1
+        weight: 1
+      - path: BrowsOuterLower_Right2
+        weight: 1
+      - path: BrowsOuterLower_Right3
+        weight: 1
+      - path: BrowsUp_Left
+        weight: 1
+      - path: BrowsUp_Left1
+        weight: 1
+      - path: BrowsUp_Left2
+        weight: 1
+      - path: BrowsUp_Left3
+        weight: 1
+      - path: BrowsUp_Right
+        weight: 1
+      - path: BrowsUp_Right1
+        weight: 1
+      - path: BrowsUp_Right2
+        weight: 1
+      - path: BrowsUp_Right3
+        weight: 1
+      - path: BrowsUp_Right4
+        weight: 1
+      - path: BrowsUp_Right5
+        weight: 1
+      - path: CheekPuff_Left
+        weight: 1
+      - path: CheekPuff_Left1
+        weight: 1
+      - path: CheekPuff_Left2
+        weight: 1
+      - path: CheekPuff_Left3
+        weight: 1
+      - path: CheekPuff_Right
+        weight: 1
+      - path: CheekPuff_Right1
+        weight: 1
+      - path: CheekPuff_Right2
+        weight: 1
+      - path: CheekPuff_Right3
+        weight: 1
+      - path: Eyelashes
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: EyesWide_Left
+        weight: 1
+      - path: EyesWide_Left1
+        weight: 1
+      - path: EyesWide_Left2
+        weight: 1
+      - path: EyesWide_Left3
+        weight: 1
+      - path: EyesWide_Left4
+        weight: 1
+      - path: EyesWide_Left5
+        weight: 1
+      - path: EyesWide_Right
+        weight: 1
+      - path: EyesWide_Right1
+        weight: 1
+      - path: EyesWide_Right2
+        weight: 1
+      - path: EyesWide_Right3
+        weight: 1
+      - path: EyesWide_Right4
+        weight: 1
+      - path: EyesWide_Right5
+        weight: 1
+      - path: Frown_Left
+        weight: 1
+      - path: Frown_Left1
+        weight: 1
+      - path: Frown_Left2
+        weight: 1
+      - path: Frown_Left3
+        weight: 1
+      - path: Frown_Right
+        weight: 1
+      - path: Frown_Right1
+        weight: 1
+      - path: Frown_Right2
+        weight: 1
+      - path: Frown_Right3
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Jaw_Down
+        weight: 1
+      - path: Jaw_Down1
+        weight: 1
+      - path: Jaw_Down2
+        weight: 1
+      - path: Jaw_Down3
+        weight: 1
+      - path: Jaw_Left
+        weight: 1
+      - path: Jaw_Left1
+        weight: 1
+      - path: Jaw_Left2
+        weight: 1
+      - path: Jaw_Left3
+        weight: 1
+      - path: Jaw_Right
+        weight: 1
+      - path: Jaw_Right1
+        weight: 1
+      - path: Jaw_Right2
+        weight: 1
+      - path: Jaw_Right3
+        weight: 1
+      - path: Jaw_Up
+        weight: 1
+      - path: Jaw_Up1
+        weight: 1
+      - path: Jaw_Up2
+        weight: 1
+      - path: Jaw_Up3
+        weight: 1
+      - path: JawBackward
+        weight: 1
+      - path: JawBackward1
+        weight: 1
+      - path: JawBackward2
+        weight: 1
+      - path: JawBackward3
+        weight: 1
+      - path: JawForeward
+        weight: 1
+      - path: JawForeward1
+        weight: 1
+      - path: JawForeward2
+        weight: 1
+      - path: JawForeward3
+        weight: 1
+      - path: JawRotateY_Left
+        weight: 1
+      - path: JawRotateY_Left1
+        weight: 1
+      - path: JawRotateY_Left2
+        weight: 1
+      - path: JawRotateY_Left3
+        weight: 1
+      - path: JawRotateY_Right
+        weight: 1
+      - path: JawRotateY_Right1
+        weight: 1
+      - path: JawRotateY_Right2
+        weight: 1
+      - path: JawRotateY_Right3
+        weight: 1
+      - path: JawRotateZ_Right
+        weight: 1
+      - path: JawRotateZ_Right1
+        weight: 1
+      - path: JawRotateZ_Right2
+        weight: 1
+      - path: JawRotateZ_Right3
+        weight: 1
+      - path: LowerLipDown_Left
+        weight: 1
+      - path: LowerLipDown_Left1
+        weight: 1
+      - path: LowerLipDown_Left2
+        weight: 1
+      - path: LowerLipDown_Left3
+        weight: 1
+      - path: LowerLipDown_Right
+        weight: 1
+      - path: LowerLipDown_Right1
+        weight: 1
+      - path: LowerLipDown_Right2
+        weight: 1
+      - path: LowerLipDown_Right3
+        weight: 1
+      - path: LowerLipIn
+        weight: 1
+      - path: LowerLipIn1
+        weight: 1
+      - path: LowerLipIn2
+        weight: 1
+      - path: LowerLipIn3
+        weight: 1
+      - path: LowerLipOut
+        weight: 1
+      - path: LowerLipOut1
+        weight: 1
+      - path: LowerLipOut2
+        weight: 1
+      - path: LowerLipOut3
+        weight: 1
+      - path: Midmouth_Left
+        weight: 1
+      - path: Midmouth_Left1
+        weight: 1
+      - path: Midmouth_Left2
+        weight: 1
+      - path: Midmouth_Left3
+        weight: 1
+      - path: Midmouth_Left4
+        weight: 1
+      - path: Midmouth_Left5
+        weight: 1
+      - path: Midmouth_Right
+        weight: 1
+      - path: Midmouth_Right1
+        weight: 1
+      - path: Midmouth_Right2
+        weight: 1
+      - path: Midmouth_Right3
+        weight: 1
+      - path: Midmouth_Right4
+        weight: 1
+      - path: Midmouth_Right5
+        weight: 1
+      - path: mixamorig:Hips
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase/mixamorig:LeftToe_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase/mixamorig:RightToe_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3/mixamorig:LeftHandIndex4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1/mixamorig:LeftHandMiddle2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1/mixamorig:LeftHandMiddle2/mixamorig:LeftHandMiddle3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1/mixamorig:LeftHandMiddle2/mixamorig:LeftHandMiddle3/mixamorig:LeftHandMiddle4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1/mixamorig:LeftHandPinky2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1/mixamorig:LeftHandPinky2/mixamorig:LeftHandPinky3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1/mixamorig:LeftHandPinky2/mixamorig:LeftHandPinky3/mixamorig:LeftHandPinky4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1/mixamorig:LeftHandRing2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1/mixamorig:LeftHandRing2/mixamorig:LeftHandRing3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1/mixamorig:LeftHandRing2/mixamorig:LeftHandRing3/mixamorig:LeftHandRing4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1/mixamorig:LeftHandThumb2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1/mixamorig:LeftHandThumb2/mixamorig:LeftHandThumb3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1/mixamorig:LeftHandThumb2/mixamorig:LeftHandThumb3/mixamorig:LeftHandThumb4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:HeadTop_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:LeftEye
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:RightEye
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3/mixamorig:RightHandIndex4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1/mixamorig:RightHandMiddle2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1/mixamorig:RightHandMiddle2/mixamorig:RightHandMiddle3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1/mixamorig:RightHandMiddle2/mixamorig:RightHandMiddle3/mixamorig:RightHandMiddle4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1/mixamorig:RightHandPinky2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1/mixamorig:RightHandPinky2/mixamorig:RightHandPinky3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1/mixamorig:RightHandPinky2/mixamorig:RightHandPinky3/mixamorig:RightHandPinky4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1/mixamorig:RightHandRing2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1/mixamorig:RightHandRing2/mixamorig:RightHandRing3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1/mixamorig:RightHandRing2/mixamorig:RightHandRing3/mixamorig:RightHandRing4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1/mixamorig:RightHandThumb2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1/mixamorig:RightHandThumb2/mixamorig:RightHandThumb3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1/mixamorig:RightHandThumb2/mixamorig:RightHandThumb3/mixamorig:RightHandThumb4
+        weight: 1
+      - path: MouthDown
+        weight: 1
+      - path: MouthDown1
+        weight: 1
+      - path: MouthDown2
+        weight: 1
+      - path: MouthDown3
+        weight: 1
+      - path: MouthDown4
+        weight: 1
+      - path: MouthDown5
+        weight: 1
+      - path: MouthNarrow_Left
+        weight: 1
+      - path: MouthNarrow_Left1
+        weight: 1
+      - path: MouthNarrow_Left2
+        weight: 1
+      - path: MouthNarrow_Left3
+        weight: 1
+      - path: MouthNarrow_Right
+        weight: 1
+      - path: MouthNarrow_Right1
+        weight: 1
+      - path: MouthNarrow_Right2
+        weight: 1
+      - path: MouthNarrow_Right3
+        weight: 1
+      - path: MouthOpen
+        weight: 1
+      - path: MouthOpen1
+        weight: 1
+      - path: MouthOpen2
+        weight: 1
+      - path: MouthOpen3
+        weight: 1
+      - path: MouthUp
+        weight: 1
+      - path: MouthUp1
+        weight: 1
+      - path: MouthUp2
+        weight: 1
+      - path: MouthUp3
+        weight: 1
+      - path: MouthUp4
+        weight: 1
+      - path: MouthUp5
+        weight: 1
+      - path: MouthWhistle_NarrowAdjust_Left
+        weight: 1
+      - path: MouthWhistle_NarrowAdjust_Left1
+        weight: 1
+      - path: MouthWhistle_NarrowAdjust_Left2
+        weight: 1
+      - path: MouthWhistle_NarrowAdjust_Left3
+        weight: 1
+      - path: MouthWhistle_NarrowAdjust_Right
+        weight: 1
+      - path: MouthWhistle_NarrowAdjust_Right1
+        weight: 1
+      - path: MouthWhistle_NarrowAdjust_Right2
+        weight: 1
+      - path: MouthWhistle_NarrowAdjust_Right3
+        weight: 1
+      - path: NoseScrunch_Left
+        weight: 1
+      - path: NoseScrunch_Left1
+        weight: 1
+      - path: NoseScrunch_Left2
+        weight: 1
+      - path: NoseScrunch_Left3
+        weight: 1
+      - path: NoseScrunch_Right
+        weight: 1
+      - path: NoseScrunch_Right1
+        weight: 1
+      - path: NoseScrunch_Right2
+        weight: 1
+      - path: NoseScrunch_Right3
+        weight: 1
+      - path: rig_Group
+        weight: 1
+      - path: rig_Group/back_IK
+        weight: 1
+      - path: rig_Group/ikBackCurve
+        weight: 1
+      - path: rig_Group/l_arm_ik
+        weight: 1
+      - path: rig_Group/r_arm_ik
+        weight: 1
+      - path: Shoes
+        weight: 1
+      - path: Smile_Left
+        weight: 1
+      - path: Smile_Left1
+        weight: 1
+      - path: Smile_Left2
+        weight: 1
+      - path: Smile_Left3
+        weight: 1
+      - path: Smile_Right
+        weight: 1
+      - path: Smile_Right1
+        weight: 1
+      - path: Smile_Right2
+        weight: 1
+      - path: Smile_Right3
+        weight: 1
+      - path: Squint_Left
+        weight: 1
+      - path: Squint_Left1
+        weight: 1
+      - path: Squint_Left2
+        weight: 1
+      - path: Squint_Left3
+        weight: 1
+      - path: Squint_Left4
+        weight: 1
+      - path: Squint_Left5
+        weight: 1
+      - path: Squint_Right
+        weight: 1
+      - path: Squint_Right1
+        weight: 1
+      - path: Squint_Right2
+        weight: 1
+      - path: Squint_Right3
+        weight: 1
+      - path: Squint_Right4
+        weight: 1
+      - path: Squint_Right5
+        weight: 1
+      - path: superMover_Control
+        weight: 1
+      - path: superMover_Control/bodyControl
+        weight: 1
+      - path: superMover_Control/bodyControl/backBend_Control
+        weight: 1
+      - path: superMover_Control/bodyControl/backBend_Control/upperBackControl
+        weight: 1
+      - path: superMover_Control/bodyControl/backBend_Control/upperBackControl/left_Clavical_Control
+        weight: 1
+      - path: superMover_Control/bodyControl/backBend_Control/upperBackControl/r_cavical_control
+        weight: 1
+      - path: superMover_Control/bodyControl/backBend_Control/upperBackControl/upperBackCluster
+        weight: 1
+      - path: superMover_Control/bodyControl/lowerBackControl
+        weight: 1
+      - path: superMover_Control/bodyControl/lowerBackControl/lowerBackCluster
+        weight: 1
+      - path: superMover_Control/l_elbow_control
+        weight: 1
+      - path: superMover_Control/l_foot_control
+        weight: 1
+      - path: superMover_Control/l_foot_control/l_ankle_Pivot
+        weight: 1
+      - path: superMover_Control/l_foot_control/l_ankle_Pivot/l_ToeTip_Pivot
+        weight: 1
+      - path: superMover_Control/l_foot_control/l_ankle_Pivot/l_ToeTip_Pivot/l_Swivel_Pivot
+        weight: 1
+      - path: superMover_Control/l_foot_control/l_ankle_Pivot/l_ToeTip_Pivot/l_Swivel_Pivot/l_heelPeel_pivot
+        weight: 1
+      - path: superMover_Control/l_foot_control/l_ankle_Pivot/l_ToeTip_Pivot/l_Swivel_Pivot/l_heelPeel_pivot/l_ankle_ik
+        weight: 1
+      - path: superMover_Control/l_foot_control/l_ankle_Pivot/l_ToeTip_Pivot/l_Swivel_Pivot/l_toetap_pivot
+        weight: 1
+      - path: superMover_Control/l_foot_control/l_ankle_Pivot/l_ToeTip_Pivot/l_Swivel_Pivot/l_toetap_pivot/l_ball_ik
+        weight: 1
+      - path: superMover_Control/l_foot_control/l_ankle_Pivot/l_ToeTip_Pivot/l_Swivel_Pivot/l_toetap_pivot/l_toe_ik
+        weight: 1
+      - path: superMover_Control/l_foot_control/l_Knee_Control
+        weight: 1
+      - path: superMover_Control/l_hand_offset
+        weight: 1
+      - path: superMover_Control/l_hand_offset/l_hand_control
+        weight: 1
+      - path: superMover_Control/l_hand_offset/r_hand_control
+        weight: 1
+      - path: superMover_Control/r_elbow_control
+        weight: 1
+      - path: superMover_Control/r_foot_control
+        weight: 1
+      - path: superMover_Control/r_foot_control/r_ankle_Pivot
+        weight: 1
+      - path: superMover_Control/r_foot_control/r_ankle_Pivot/r_toeTip_Pivot
+        weight: 1
+      - path: superMover_Control/r_foot_control/r_ankle_Pivot/r_toeTip_Pivot/r_Swivel_Pivot
+        weight: 1
+      - path: superMover_Control/r_foot_control/r_ankle_Pivot/r_toeTip_Pivot/r_Swivel_Pivot/r_heelPeel_Pivot
+        weight: 1
+      - path: superMover_Control/r_foot_control/r_ankle_Pivot/r_toeTip_Pivot/r_Swivel_Pivot/r_heelPeel_Pivot/r_ankle_ik
+        weight: 1
+      - path: superMover_Control/r_foot_control/r_ankle_Pivot/r_toeTip_Pivot/r_Swivel_Pivot/r_toetap_pivot
+        weight: 1
+      - path: superMover_Control/r_foot_control/r_ankle_Pivot/r_toeTip_Pivot/r_Swivel_Pivot/r_toetap_pivot/r_ball_ik
+        weight: 1
+      - path: superMover_Control/r_foot_control/r_ankle_Pivot/r_toeTip_Pivot/r_Swivel_Pivot/r_toetap_pivot/r_toe_ik
+        weight: 1
+      - path: superMover_Control/r_foot_control/r_knee_control
+        weight: 1
+      - path: TongueUp
+        weight: 1
+      - path: TongueUp1
+        weight: 1
+      - path: TongueUp2
+        weight: 1
+      - path: TongueUp3
+        weight: 1
+      - path: Tops
+        weight: 1
+      - path: UpperLipIn
+        weight: 1
+      - path: UpperLipIn1
+        weight: 1
+      - path: UpperLipIn2
+        weight: 1
+      - path: UpperLipIn3
+        weight: 1
+      - path: UpperLipOut
+        weight: 1
+      - path: UpperLipOut1
+        weight: 1
+      - path: UpperLipOut2
+        weight: 1
+      - path: UpperLipOut3
+        weight: 1
+      - path: UpperLipUp_Left
+        weight: 1
+      - path: UpperLipUp_Left1
+        weight: 1
+      - path: UpperLipUp_Left2
+        weight: 1
+      - path: UpperLipUp_Left3
+        weight: 1
+      - path: UpperLipUp_Right
+        weight: 1
+      - path: UpperLipUp_Right1
+        weight: 1
+      - path: UpperLipUp_Right2
+        weight: 1
+      - path: UpperLipUp_Right3
+        weight: 1
+      - path: Whiteboard2:Quadro_Branco
+        weight: 1
+      - path: Whiteboard2:Quadro_Branco/Whiteboard2:Frente
+        weight: 1
+      - path: Whiteboard2:Quadro_Branco/Whiteboard2:Fundo
+        weight: 1
+      - path: Whiteboard2:Quadro_Branco/Whiteboard2:Guarda_pinceis
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
